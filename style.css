@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+.name_of_objects{
+   color: blueviolet; 
+   font-family: Georgia, 'Times New Roman', Times, serif;
+}
+p{
+    color:brown;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    
+}
+label{
+    color: crimson;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
